@@ -1,3 +1,17 @@
+.body{
+    position: relative;
+width: 1600px;
+height: 1880px;
+
+background: #FFFFFF;
+}
+.mein{
+    position: absolute;
+width: 1170px;
+height: 1360px;
+left: 215px;
+top: 174px;
+}
 .WebStudio{
     position: absolute;
 width: 145px;
