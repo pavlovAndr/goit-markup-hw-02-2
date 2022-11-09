@@ -203,6 +203,308 @@ color: #212121;
     letter-spacing: 0.03em;
     
     color: #757575;
+}
+.j{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 696px;
+
+background: url(portfolio5.jpg);
+ }
+.k{
+position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.z{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.x {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 696px;
     
+    background: url(111.jpg);
+}
+.c{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.v{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1050px;
+
+}
+.b{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1130px;
+
+background: url(portfolio7.jpg);
+}
+.n{
+    
+position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.m{
+    
+position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.q{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1130px;
+
+background: url(portfolio8.jpg);
+}
+.w{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.e{
+    
+position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.r{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 1130px;
+
+background: url(2910404.jpg);
+}
+.t{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.y{
+ 
+position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.big{
+    position: absolute;
+width: 1600px;
+height: 252px;
+left: 0px;
+top: 1628px;
+}
+.u{
+    
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 1688px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+
+}
+.i{
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 1739px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+.o{
+    position: absolute;
+width: 238px;
+height: 21.52px;
+left: 215px;
+top: 1767.74px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+}
+.p{
+    position: absolute;
+width: 238px;
+height: 21.52px;
+left: 215px;
+top: 1798.48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
 
 }
